@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javatechie</groupId>
-	<artifactId>springboot-k8s-demo</artifactId>
+	<artifactId>springboot-k8s-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-k8s-demo</name>
 	<description>Demo project for Spring Boot</description>
